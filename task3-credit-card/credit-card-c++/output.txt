@@ -1,0 +1,4 @@
+Customer name: Soyaib Rahman
+Available Balance: 285000
+Total Spent: 200000
+Daily Withdrawal: 15000
