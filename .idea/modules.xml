@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/oop-course-tiemoon-vai.iml" filepath="$PROJECT_DIR$/.idea/oop-course-tiemoon-vai.iml" />
+      <module fileurl="file://$PROJECT_DIR$/task2-bank-account/task2-bank-account.iml" filepath="$PROJECT_DIR$/task2-bank-account/task2-bank-account.iml" />
+      <module fileurl="file://$PROJECT_DIR$/task3-credit-card/task3-credit-card.iml" filepath="$PROJECT_DIR$/task3-credit-card/task3-credit-card.iml" />
+    </modules>
+  </component>
+</project>

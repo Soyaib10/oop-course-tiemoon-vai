@@ -68,6 +68,8 @@ func (c *CreditCard) PayBill(amount float64) error {
 	return nil
 }
 
+
+// GetCurrentSpending gives current spending
 func (c *CreditCard) GetCurrentSpending() float64 {
 	return c.currentSpending
 }
